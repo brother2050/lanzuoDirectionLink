@@ -1,2 +1,5 @@
 requests==2.31.0
 Django==5.0.4
+django-extensions==3.2.3
+django-werkzeug-debugger-runserver==0.3.1
+pyOpenSSL==24.1.0 
