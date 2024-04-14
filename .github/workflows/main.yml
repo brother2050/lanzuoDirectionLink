@@ -23,4 +23,5 @@ jobs:
         pip install -r requirements.txt
     - name: Run Tests
       run: |
-        python manage.py runserver_plus --cert-file cert.crt
+        #python manage.py runserver_plus --cert-file cert.crt
+        python manage.py test
