@@ -1,0 +1,2 @@
+# lanzuoDirectionLink
+主要是尝试下action来获取蓝奏支链
